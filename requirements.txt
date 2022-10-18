@@ -1,0 +1,4 @@
+art==5.7
+matplotlib==3.5.3
+numpy==1.23.2
+sympy==1.11.1
