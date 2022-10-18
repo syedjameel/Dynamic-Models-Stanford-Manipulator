@@ -1,0 +1,9 @@
+2022-10-14 21:56:35.755109
+Traceback (most recent call last):
+  File "/home/syed/Documents/MS-1/Part 1/Dynamics of Nonlinear Robotic Systems/Lab/Assignment-4/SimpleTranformations.py", line 84, in print_matrix
+    s = [[str(e) for e in row] for row in a]
+  File "/home/syed/Documents/MS-1/Part 1/Dynamics of Nonlinear Robotic Systems/Lab/Assignment-4/SimpleTranformations.py", line 84, in <listcomp>
+    s = [[str(e) for e in row] for row in a]
+TypeError: 'Zero' object is not iterable
+
+
